@@ -1,0 +1,21 @@
+{
+  "name": "Sprunki Phase 3 - Play Incredibox Sprunki Mod Online",
+  "version": "2.1.0,
+  "description": "Sprunki Phase 3 - Play Incredibox Sprunki Mod Online",
+  "main": "index.js",
+  "bin": {
+    "sprunki-infected": "./index.js"
+  },
+  "keywords": [
+    "Sprunki Phase 3",
+    "sprunki",
+    "incredibox",
+    "sprunki phase 3 mod",
+    "sprunked mod",
+    "sprunki phase 4 mod",
+    "sprunki phase 5 mod",
+    "sprunki phase 6 mod",
+  ],
+  "author": "Sprunki Phase 3",
+  "license": "MIT"
+}
